@@ -4,13 +4,19 @@ Este repositorio reúne los principales links y materiales que se utilizarán en
 
 ---
 
-## 🚀 Herramientas principales
+## 🚀 Recursos para el Workshop
 
 - **Etherscan** → [https://etherscan.io/](https://etherscan.io/)  
   Explorador de bloques y transacciones en Ethereum.
 
 - **Metamask** → [https://metamask.io/](https://metamask.io/)  
   Wallet para interactuar con aplicaciones descentralizadas y redes de prueba.
+
+- **Direcciones para compartir ETH (Sepolia)** → [google doc](https://docs.google.com/document/d/10zKN6fG2i389WGtyO2DylSEcB97rEjWD1Qq9p3mSpuQ/edit?usp=sharing)  
+  Documento colaborativo.
+
+- **Etherscan (Sepolia)** — https://sepolia.etherscan.io/  
+  Versión para la testnet Sepolia (usar para revisar transacciones y contratos desplegados durante el workshop).
 
 - **Remix IDE** → [http://remix.ethereum.org/](http://remix.ethereum.org/)  
   Entorno de desarrollo en línea para escribir, compilar y desplegar contratos inteligentes.
@@ -28,6 +34,7 @@ Este repositorio reúne los principales links y materiales que se utilizarán en
 - **Sepolia Faucets**  
   - [Chainlink Faucet](https://faucets.chain.link/sepolia)  
   - [ETHGlobal Faucet](https://ethglobal.com/faucet)
+  
 
 ---
 
